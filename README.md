@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Piano
 - 🌱 I’m currently learning Python, Flutter and Open-CV applications
 - 💞️ I’m looking to collaborate on Facial Recognition based apps
-- 📫 How to reach me: 1.E-mail: meaviral17@gmail.com   2.LinkedIn: https://www.linkedin.com/in/meaviralsrivastava   3.Instagram: aapka.aviral
+- 📫 How to reach me: 1.E-mail: meaviral17@gmail.com   2.LinkedIn: https://www.linkedin.com/in/meaviralsrivastava   3.Instagram: whyaviralwhy
                       
                       
 
