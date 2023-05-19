@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ML Models for data analysis**
 - 🌱 I’m currently learning **web app testing**
-- 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
+- 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
 - 💬 Ask me about **CTFs,pentest,linux**
 - 📫 How to reach me **meaviral17@gmail.com**
 
