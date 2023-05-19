@@ -45,13 +45,7 @@
 </p>
 
 <hr>
-
-<img  src="![meaviral17's Stats](https://github-readme-stats.vercel.app/api?username=meaviral17&theme=merko&show_icons=true&hide_border=false&count_private=true)">
-
-<img src="![meaviral17's Stats](https://github-readme-stats.vercel.app/api?username=meaviral17&theme=merko&show_icons=true&hide_border=false&count_private=true)"/>
-
-<img src="![meaviral17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaviral17&theme=merko&hide_border=false)">
-<img src="![meaviral17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meaviral17&theme=merko&show_icons=true&hide_border=false&layout=compact)">                               
+                         
 
 <!---
 meaviral17/meaviral17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
