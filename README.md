@@ -15,16 +15,7 @@
 - 📫 How to reach me **meaviral17@gmail.com**
 
  
-<h3>Connect with Me!</h3>
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/meaviralsrivastava/">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/whyaviralwhy?igshid=OTk0YzhjMDVlZA==">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,6 +32,18 @@
 
   
 </span>
+
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/meaviralsrivastava/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/whyaviralwhy?igshid=OTk0YzhjMDVlZA==">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+</p>
+
 <hr>
 
 <img  src="![meaviral17's Stats](https://github-readme-stats.vercel.app/api?username=meaviral17&theme=merko&show_icons=true&hide_border=false&count_private=true)">
