@@ -37,10 +37,11 @@
 <a href="https://instagram.com/whyaviralwhy?igshid=OTk0YzhjMDVlZA==">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
 </a>&nbsp;&nbsp;
+<a href="/https://thereflectivebloggerhere.blogspot.com/">
+  <img alt="guilyx's Instagram" width="50px" src="[https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg)" />
+</a>&nbsp;&nbsp;
 </p>
-<p align="left">
-<a href="/https://thereflectivebloggerhere.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thereflectivebloggerhere.blogspot.com/" height="30" width="40" /></a>
-</p>
+
 <hr>
 
 
