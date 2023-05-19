@@ -8,10 +8,10 @@
 
 
 
-- 🔭 I’m currently working on **ML Models for data analysis**
+- 🔭 I’m currently working on **MentalMend**, my Hack-o-pitch product.
 - 🌱 I’m currently learning **front-end development and extension deployment**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
-- 💬 Ask me about **CTFs,pentest,linux**
+- 💬 Ask me about **ML Models and Project ideas**
 - 📫 How to reach me **meaviral17@gmail.com**
 
  
