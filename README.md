@@ -32,11 +32,13 @@
 <hr>
 
 
+![MEAVIRAL17's Stats](https://github-readme-stats.vercel.app/api?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+
+![MEAVIRAL17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEAVIRAL17&theme=gotham&hide_border=false)
+
+![MEAVIRAL17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meaviral17&show_icons=true&locale=en&layout=compact" alt="meaviral17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meaviral17&show_icons=true&locale=en" alt="meaviral17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meaviral17&" alt="meaviral17" /></p>
 
 
 <!---
