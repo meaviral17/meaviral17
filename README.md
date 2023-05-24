@@ -39,9 +39,3 @@
 ![MEAVIRAL17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meaviral17&show_icons=true&locale=en&layout=compact" alt="meaviral17" /></p>
 
-
-
-<!---
-meaviral17/meaviral17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
