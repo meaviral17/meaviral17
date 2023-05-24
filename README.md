@@ -37,5 +37,5 @@
 ![MEAVIRAL17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEAVIRAL17&theme=gotham&hide_border=false)
 
 ![MEAVIRAL17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meaviral17&show_icons=true&locale=en&layout=compact" alt="meaviral17" /></p>
+
 
