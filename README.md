@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-shukla1110&label=Profile%20views&color=0e75b6&style=flat" alt="meaviral17" /> </p>
-
 
 - 🔭 I’m currently working on **MentalMend**, my Hack-o-pitch product.
 - 🌱 I’m currently learning **front-end development and extension deployment**
