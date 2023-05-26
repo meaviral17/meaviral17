@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
 
-<h3 align="center"><u>Artificial Intelligence and Machine Learning 🧑🏻‍💻</u></h3>
+<h3 align="center"><u>Artificial Intelligence and Machine Learning enthusiast🧑🏻‍💻</u></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
