@@ -32,14 +32,11 @@
 <hr>
 <span>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=meaviral17&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meaviral17&langs_count=5&theme=tokyonight)]()
-
- 
- 
- ![MEAVIRAL17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&layout=compact)
- 
 ![MEAVIRAL17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEAVIRAL17&theme=gotham&hide_border=false)
+ 
+![MEAVIRAL17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAVIRAL17&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+ 
+
 
 
 
