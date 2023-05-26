@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on **[MentalMend]**, my Hack-o-pitch product.
+- 🔭 I’m currently working on **MentalMend**, my Hack-o-pitch product.
 - 🌱 I’m currently learning **front-end development and extension deployment**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
 - 💬 Ask me about **ML Models and Project ideas**
