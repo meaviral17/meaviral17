@@ -24,6 +24,9 @@
 
 <hr>
 <span>
+
+ ![meaviral17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaviral17&theme=algolia&hide_border=false)
+ 
  [![meaviral17's GitHub | Stats](https://stats.quine.sh/meaviral17/github?theme=light)](https://quine.sh)
-![meaviral17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaviral17&theme=algolia&hide_border=false)
+ 
  </span>
