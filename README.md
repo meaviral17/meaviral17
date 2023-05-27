@@ -6,6 +6,7 @@
 
 
 - 🔭 I’m currently working on **MentalMend**, my Hack-o-pitch product.
+- ☀️ I'm will be contributing to SSOC'23 from June 1st, 2023.
 - 🌱 I’m currently learning **front-end development and extension deployment**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
 - 💬 Ask me about **ML Models and Project ideas**
