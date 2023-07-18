@@ -6,7 +6,7 @@
 
 
 - ☀️ I am currectly contributing to Social Summer of Code'23 since June 1st, 2023.
-- ![image](https://github.com/meaviral17/meaviral17/assets/81246801/824f4627-4351-4b06-b0f9-346cae7d3abc) I am part of Google's Cloud Program'23
+- ☁️ I am part of Google's Cloud Program'23
 - 🔭 My most recent project is [**MentalMend**](https://github.com/meaviral17/MentalMend), the product I built for IIT Madras Hack-o-Pitch 2.0
 - 🌱 I’m currently learning **App Development**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
