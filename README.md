@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- ☀️ I am currectly contributing to Social Summer of Code'23 since June 1st, 2023.
-- ☁️ I am part of Google's Cloud Program'23
+- ☀️ I am currectly working on a project for Buildspace.
+- ☁️ I am an Alpha Microsoft SA
 - 🔭 My most recent project is [**MentalMend**](https://github.com/meaviral17/MentalMend), the product I built for IIT Madras Hack-o-Pitch 2.0
 - 🌱 I’m currently learning **App Development**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
