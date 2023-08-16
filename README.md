@@ -8,7 +8,7 @@
 - ☀️ I am currectly working on a project for Buildspace.
 - ☁️ I am an Alpha Microsoft SA
 - 🔭 My most recent project is [**MentalMend**](https://github.com/meaviral17/MentalMend), the product I built for IIT Madras Hack-o-Pitch 2.0
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **React.js**
 - 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
 - 💬 Ask me about **ML Models and tech trends**
 - 📫 How to reach me **meaviral17@gmail.com**
