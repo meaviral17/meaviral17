@@ -24,7 +24,10 @@
 
 <hr>
 <span>
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meaviral17&theme=rose_pine" width="90%" alt="stats graph"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meaviral17&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meaviral17&theme=rose_pine" width="45%" alt="stats graph"/>
  ![meaviral17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaviral17&theme=algolia&hide_border=false)
  [![meaviral17's GitHub | Stats](https://stats.quine.sh/meaviral17/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
  [![meaviral17's GitHub | Dependencies](https://stats.quine.sh/meaviral17/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
