@@ -5,10 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- ☀️ I am currectly working on a project for Buildspace.
-- ☁️ I am a Microsoft SA
+- ☀️ I am currectly an intern Microsoft India as an Azure Developer.
+- ☁️ I am also a Microsoft Student Ambassador
 - 🌱 I’m currently learning **React.js**
-- 📝 I regularly write articles on [https://thereflectivebloggerhere.blogspot.com/](https://thereflectivebloggerhere.blogspot.com/)
+- 📝 I will be relocating my blog to Hashnode soon!
 - 💬 Ask me about **ML Models and tech trends**
 - 📫 How to reach me **meaviral17@gmail.com**
 
