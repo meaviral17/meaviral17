@@ -6,8 +6,8 @@
 
 
 - ☁️ I am a Microsoft Student Ambassador
-- 🌱 I’m currently learning **React.js**
-- 📝 I will be relocating my blog to Hashnode soon!
+- 🌱 I’m currently learning **Next.js**
+- 📝 Hashnode blog: [aviralcodess.hashnode](https://aviralcodess.hashnode.dev/) 
 - 💬 Ask me about **ML Models and tech trends**
 - 📫 How to reach me **meaviral17@gmail.com**
 
