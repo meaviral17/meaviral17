@@ -12,7 +12,6 @@
 - 📫 How to reach me **meaviral17@gmail.com**
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
 <h3 align="left">Languages and Tools:</h3>
 
