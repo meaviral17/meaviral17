@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- ☁️ I currently interning at @intel as a Project Intern working on Transformers
+- ☁️ I currently working at [Intel Corporation](https://github.com/intel) as a Project Intern on Transformers
 - 🌱 I’m currently learning **Next.js**
 - 📝 Hashnode blog: [aviralcodess.hashnode](https://aviralcodess.hashnode.dev/) 
 - 💬 Ask me about **ML Models and tech trends**
