@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- ☁️ I am a Microsoft Student Ambassador
+- ☁️ I currently interning at @intel as a Project Intern working on Transformers
 - 🌱 I’m currently learning **Next.js**
 - 📝 Hashnode blog: [aviralcodess.hashnode](https://aviralcodess.hashnode.dev/) 
 - 💬 Ask me about **ML Models and tech trends**
