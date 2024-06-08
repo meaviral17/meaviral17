@@ -27,4 +27,5 @@
   
  [![meaviral17's GitHub | Stats](https://stats.quine.sh/meaviral17/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
  [![meaviral17's GitHub | Dependencies](https://stats.quine.sh/meaviral17/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
+ ![Aviral github stats](https://github-readme-stats.vercel.app/api?username=meaviral17&theme=onedark)
  </span>
