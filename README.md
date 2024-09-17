@@ -4,6 +4,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/meaviralsrivastava"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aviralcodess.hashnode.dev/"><img title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="mailto:meaviral17@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
+ 
 - 👨‍💻 Software Intern (PRISM) at Samsung R&D
 - 👯 I’m looking to collaborate on projects, either for hackathons or freelance projects.
 - 🤝 I’m looking for help with: Exploring AI model optimization, and RAG (talk of the town these days).
