@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on projects, either for hackathons or freelance projects.
 - 🤝 I’m looking for help with: Exploring AI model optimization, and RAG (talk of the town these days).
 - 🌱 I’m currently learning: Next.js 14 and advanced TypeScript.
-- 💬 Ask me about: Machine learning, tech stack optimization, and my experience interning at Samsung, Intel, and Microsoft.
-- ⚡ Fun fact: I once cut app response times by 18% with a few clever tweaks at Microsoft during my Azure Internship! Reach out for more details :)
+- 💬 Ask me about: Machine learning, and tech stack optimization.
+- ⚡ Fun fact: I once cut app response times by 18% with a few clever tweaks at Microsoft during my Azure Internship!
 
 
  
