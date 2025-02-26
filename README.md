@@ -28,9 +28,6 @@
 <span>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meaviral17&theme=rose_pine" width="90%" alt="stats graph"/>
- 
- [![meaviral17's GitHub | Stats](https://stats.quine.sh/meaviral17/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
- [![meaviral17's GitHub | Dependencies](https://stats.quine.sh/meaviral17/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meaviral17)
  </span>
 
 
